@@ -22,7 +22,7 @@ Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projec
 
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=CodebyQafar&theme=radical&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true)
 
 
 ## 🔗 Connect with Me
