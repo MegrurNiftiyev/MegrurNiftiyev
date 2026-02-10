@@ -2,7 +2,7 @@
 
 I’m a **mobile app developer** who enjoys building smart and user-friendly applications.  
 
-I started coding at **14** with small web projects. Not long after, I discovered **Flutter**, and by the age of **16**, I had my first apps published on Google Play.  
+I started coding at **14** with small web projects. Not long after, I discovered **Flutter**, and by the age of **17**, I had my first apps published on Google Play.  
 
 Along the way, I also experimented with other technologies — like making small demo projects in **Unity** as a side hobby — but my main focus has always stayed on **mobile development** (especially with Flutter).  
 
