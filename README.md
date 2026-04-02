@@ -26,7 +26,7 @@ Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projec
 
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qafar-%E2%80%8B-6b3ba6249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megrur-niftiyev/)
 [![Blog](https://img.shields.io/badge/Blog-%23292929.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://megrurqafar.blogspot.com/2022/07/about.html)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@megrurniftiyev)
 [![Google Play](https://img.shields.io/badge/Google%20Play-%234285F4.svg?&style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8256403480369011580)
