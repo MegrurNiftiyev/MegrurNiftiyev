@@ -33,11 +33,16 @@ Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projec
 
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true)
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=tokyonight" width="65%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true&count_private=true" width="49%" height="185px" alt="General Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MegrurNiftiyev&theme=nightowl&layout=compact&count_private=true&hide=html,css" width="49%" height="185px" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=codestackr" width="98.5%" height="185px" />
+</p>
+
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megrur-niftiyev/)
