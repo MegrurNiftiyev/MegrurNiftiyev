@@ -34,15 +34,13 @@ Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projec
 
 ## 📊 Stats
 
-<table align="center"><tr>
-  <td><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true&count_private=true" height="235px" alt="General Stats" /></td>
-  <td width="12px"></td>
-  <td><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MegrurNiftiyev&theme=nightowl&layout=compact&count_private=true&hide=html,css" height="235px" alt="Top Languages" /></td>
-</tr></table>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=codestackr" height="235px" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true&count_private=true" height="193" alt="General Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MegrurNiftiyev&theme=nightowl&layout=compact&count_private=true&hide=html,css" height="193" alt="Top Languages" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=codestackr" height="194" />
+</p>
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megrur-niftiyev/)
