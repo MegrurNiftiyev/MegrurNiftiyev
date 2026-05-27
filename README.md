@@ -35,11 +35,11 @@ Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projec
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true&count_private=true" height="173" alt="General Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MegrurNiftiyev&theme=radical&show_icons=true&count_private=true" height="165" alt="General Stats" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MegrurNiftiyev&theme=nightowl&layout=compact&count_private=true&hide=html,css" height="193" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=codestackr" height="194" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MegrurNiftiyev&theme=codestackr" height="165" />
 </p>
 
 ## 🔗 Connect with Me
